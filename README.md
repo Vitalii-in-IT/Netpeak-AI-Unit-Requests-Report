@@ -44,7 +44,24 @@
 <img width="1916" height="763" alt="image" src="https://github.com/user-attachments/assets/9a9f91ec-3b02-44f9-b743-3676d5b17036" />
 <img width="1625" height="963" alt="image" src="https://github.com/user-attachments/assets/44f98fed-5383-49e5-a606-e80abe693ff9" />
 
+---
 
+## 📸 Результати роботи та інтерфейс
+
+### Панель керування (GUI)
+<img width="698" alt="Панель керування" src="[https://github.com/user-attachments/assets/9f2d8ebe-db35-4066-8147-8e3cf18ac415](https://github.com/user-attachments/assets/9f2d8ebe-db35-4066-8147-8e3cf18ac415)" />
+
+### Логування та обробка черги
+<img width="977" alt="Консоль обробки" src="[https://github.com/user-attachments/assets/3aa70542-64b3-4cee-b56d-ca7f14711aa6](https://github.com/user-attachments/assets/3aa70542-64b3-4cee-b56d-ca7f14711aa6)" />
+
+### Звіт у Telegram-каналі
+<img width="611" alt="Звіт Telegram" src="[https://github.com/user-attachments/assets/40f6cb71-b2af-4733-b18a-64df899f1e13](https://github.com/user-attachments/assets/40f6cb71-b2af-4733-b18a-64df899f1e13)" />
+
+### Синхронізація з Google Sheets
+<img width="1916" alt="Google Таблиця" src="[https://github.com/user-attachments/assets/9a9f91ec-3b02-44f9-b743-3676d5b17036](https://github.com/user-attachments/assets/9a9f91ec-3b02-44f9-b743-3676d5b17036)" />
+
+### Повна аналітика та структуровані дані
+<img width="1625" alt="Аналітика запитів" src="[https://github.com/user-attachments/assets/44f98fed-5383-49e5-a606-e80abe693ff9](https://github.com/user-attachments/assets/44f98fed-5383-49e5-a606-e80abe693ff9)" />
 
 
 
