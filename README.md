@@ -25,7 +25,7 @@
 
 ## 🏗 Архітектура проекту
 
-
+```text
 ├── main.py              # GUI застосунок (Tkinter), оркестрація потоків
 ├── reader.py            # Потокове читання CSV, відстеження прогресу
 ├── classifier.py        # Інтеграція з Gemini API, Pydantic-схеми
@@ -36,7 +36,7 @@
 ├── check_models.py      # Утиліта для перевірки доступних моделей Gemini
 ├── config.json          # Файл конфігурації (створюється автоматично)
 └── credentials.json     # Сервісний акаунт Google Cloud (для Sheets API)
-
+}
 
 <img width="698" height="388" alt="image" src="https://github.com/user-attachments/assets/9f2d8ebe-db35-4066-8147-8e3cf18ac415" />
 <img width="977" height="743" alt="image" src="https://github.com/user-attachments/assets/3aa70542-64b3-4cee-b56d-ca7f14711aa6" />
