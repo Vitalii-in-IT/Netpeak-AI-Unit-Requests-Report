@@ -49,20 +49,21 @@
 ## 📸 Результати роботи та інтерфейс
 
 ### Панель керування (GUI)
-![Панель керування](https://github.com/user-attachments/assets/9f2d8ebe-db35-4066-8147-8e3cf18ac415)
+
+<img src="https://github.com/user-attachments/assets/9f2d8ebe-db35-4066-8147-8e3cf18ac415" alt="Панель керування" width="100%">
 
 ### Логування та обробка черги
-![Консоль обробки](https://github.com/user-attachments/assets/3aa70542-64b3-4cee-b56d-ca7f14711aa6)
+
+<img src="https://github.com/user-attachments/assets/3aa70542-64b3-4cee-b56d-ca7f14711aa6" alt="Консоль обробки" width="100%">
 
 ### Звіт у Telegram-каналі
-![Звіт Telegram](https://github.com/user-attachments/assets/40f6cb71-b2af-4733-b18a-64df899f1e13)
+
+<img src="https://github.com/user-attachments/assets/40f6cb71-b2af-4733-b18a-64df899f1e13" alt="Звіт у Telegram" width="500">
 
 ### Синхронізація з Google Sheets
-![Google Таблиця](https://github.com/user-attachments/assets/9a9f91ec-3b02-44f9-b743-3676d5b17036)
+
+<img src="https://github.com/user-attachments/assets/9a9f91ec-3b02-44f9-b743-3676d5b17036" alt="Синхронізація Google Sheets" width="100%">
 
 ### Повна аналітика та структуровані дані
-![Аналітика запитів](https://github.com/user-attachments/assets/44f98fed-5383-49e5-a606-e80abe693ff9)
 
-
-
-
+<img src="https://github.com/user-attachments/assets/44f98fed-5383-49e5-a606-e80abe693ff9" alt="Аналітика запитів" width="100%">
